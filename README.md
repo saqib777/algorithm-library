@@ -55,6 +55,10 @@ python -m unittest discover tests
 ```
 
 ---
+## Searching Algorithms
+- [x] Binary Search
+- [x] Linear Search
+---
 
 ## 🤝 Contribution
 Contributions are welcome!  
